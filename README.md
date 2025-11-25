@@ -1,6 +1,66 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 App de Organização de Finanças Pessoais de maneira facil com Vibe Coding
 
-Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
+# PRD – Aplicativo de Organização de Finanças Pessoais
+
+## 1. Contexto
+O aplicativo será uma solução de organização financeira pessoal baseada em conversas naturais.  
+Em vez de formulários ou planilhas, o usuário interage com um Agente Financeiro virtual, que entende suas mensagens e transforma em registros, metas e recomendações.  
+A proposta é tornar o controle financeiro algo simples, acessível e educativo, especialmente para iniciantes.
+
+## 2. Problema
+- Apps atuais exigem entrada manual excessiva e oferecem pouca personalização.  
+- Usuários iniciantes se sentem sobrecarregados com relatórios técnicos e interfaces complexas.  
+- Resultado: muitos desistem de organizar suas finanças.  
+
+Solução: oferecer uma experiência conversacional que reduz esforço ao mínimo e entrega valor imediato com dicas e relatórios fáceis de entender.
+
+## 3. Público-Alvo
+- Pessoas que querem começar a organizar suas finanças sem complicação.  
+- Usuários iniciantes que nunca conseguiram manter planilhas ou apps tradicionais.  
+- Jovens adultos e profissionais que preferem interações rápidas e naturais.
+
+## 4. Funcionalidades-Chave
+1. Registro de gastos via chat em linguagem natural (ex.: “gastei R$50 no mercado”).  
+2. Classificação automática das transações em categorias.  
+3. Definição e acompanhamento de metas financeiras (ex.: economizar R$200/mês).  
+4. Dicas de economia personalizadas do Agente Financeiro.  
+5. Relatórios simples e visuais, adaptados ao perfil do usuário.  
+
+## 5. MVP (Produto Mínimo Viável)
+- Principais telas:
+  - Chat (interação principal).  
+  - Metas (definição e progresso).  
+  - Relatórios (gráficos simples e personalizados).  
+
+- Recursos necessários:
+  - Motor de NLP para entender linguagem natural.  
+  - Sistema de categorização automática.  
+  - Módulo de relatórios básicos e visuais.  
+  - Agente de recomendações financeiras.  
+
+- Validação inicial:
+  - Testar com usuários iniciantes.  
+  - Medir engajamento (quantidade de interações no chat).  
+  - Avaliar clareza das dicas e relatórios.  
+  - Coletar feedback sobre simplicidade e utilidade.  
+- interaçoes com lovable:
+- crie um app de finanças pessoais com o seguinte prd(product requeriments document):{prd}
+- tentei registrar entrada e saida, e ele registrou a saida como entrada, e nao registrou mais so reconheceu no chat, isso nao é facilidade para o publico alvo, e onde vejo os extratos e os graficos
+ 
+resultado final no lovable: https://controle-sonhador.lovable.app/ 
+
+## Conceitos Didáticos
+
+### PRD (Product Requirements Document)
+Documento que descreve o que será construído, para quem e por quê.  
+É o mapa inicial que guia o desenvolvimento do produto.  
+Estrutura: contexto, problema, público-alvo, funcionalidades, entregáveis.  
+
+### Vibe Coding
+Estilo de programação que privilegia experimentação rápida e criativa.  
+Objetivo: sentir a vibe do produto — testar interações, validar a experiência, ajustar rápido.  
+No Lovable, significa prototipar com foco na sensação do usuário, mesmo sem estar 100% completo.
+
 
 ## ✨ O que é Vibe Coding
 
